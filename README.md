@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Nagasri.P</h1>
-<h3 align="center">A passionate Data Analyst from Chennai.</h3>
+<h3 align="center">A passionate Data Science Trainer from Chennai.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nagasri13&label=Profile%20views&color=0e75b6&style=flat" alt="nagasri13" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nagasri13" alt="nagasri13" /></a> </p>
 
-- 🌱 I’m currently learning **Tensorflows, Time Series**
+- 🌱 I’m currently working with  **Tensorflows, Time Series**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Nagasri13](https://github.com/Nagasri13)
 
